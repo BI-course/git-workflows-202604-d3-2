@@ -16,3 +16,8 @@ Refer to the files in the order specified below for more details:
 
 - [lab_instructions_part1.md](lab_instructions_part1.md)
 - [lab_instructions_part2.md](lab_instructions_part2.md)
+
+Team Members Roles:
+1. Brian Gikonyo Gichuru - Team Lead - Updating README.md file
+2. Sandra Muthiani - Team Member - Researching on sources of data in a business
+3. Bonface Vulu - Team Member - Describing a star schema
